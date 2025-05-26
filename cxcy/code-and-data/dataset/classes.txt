@@ -1,0 +1,3 @@
+0 Formula
+1 DataGraph
+2 SketchMap
